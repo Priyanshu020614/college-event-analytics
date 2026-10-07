@@ -1,0 +1,401 @@
+event_id,event_name,category,event_type,event_date,organizer,venue,capacity,is_free,fee,duration_hours,has_certificate,has_prizes,has_food,promotion_days,promotion_channels,guest_speaker_rating,day_of_week,month,is_weekend,time_slot,near_exams,is_festival_week,semester,academic_year
+E0001,Athletics Day 2024,Sports,Athletics Day,2024-01-02,Cultural Committee,Open Ground,1264,0,50,4,0,1,0,20,4,,Tuesday,1,0,Afternoon,0,0,Even,2023
+E0002,Tech Talk 2024,Technical,Tech Talk,2024-08-02,Cultural Committee,Auditorium,513,1,0,1,1,1,1,28,3,4.6,Friday,8,0,Morning,0,0,Odd,2024
+E0003,Music Night 2025,Cultural,Music Night,2025-02-06,Photography Club,Seminar Hall,145,0,150,6,0,1,0,11,1,,Thursday,2,0,Afternoon,0,0,Even,2024
+E0004,Fashion Show 2023,Cultural,Fashion Show,2023-10-02,Sports Council,Open Ground,1417,0,50,8,1,1,1,11,1,,Monday,10,0,Morning,0,0,Odd,2023
+E0005,Charity Run 2024,Social/NSS,Charity Run,2024-03-17,Photography Club,Auditorium,595,1,0,2,1,0,1,7,1,,Sunday,3,1,Morning,0,0,Even,2023
+E0006,Resume Clinic 2025,Career,Resume Clinic,2025-03-03,IEEE Chapter,Online (Zoom),1575,1,0,6,0,0,0,30,1,2.8,Monday,3,0,Afternoon,0,0,Even,2024
+E0007,Cultural Fest 2022,Cultural,Cultural Fest,2022-07-13,Coding Club,Seminar Hall,157,0,50,4,0,1,0,8,3,,Wednesday,7,0,Evening,0,0,Odd,2022
+E0008,Music Night 2023,Cultural,Music Night,2023-03-01,Placement Cell,Open Ground,947,1,0,6,0,1,1,21,2,,Wednesday,3,0,Morning,0,1,Even,2022
+E0009,Cultural Fest 2022,Cultural,Cultural Fest,2022-11-19,Robotics Club,Open Ground,1427,0,100,10,0,1,0,27,2,,Saturday,11,1,Afternoon,1,0,Odd,2022
+E0010,Drama 2023,Cultural,Drama,2023-02-26,IEEE Chapter,Seminar Hall,131,0,50,8,0,1,0,23,1,,Sunday,2,1,Morning,0,0,Even,2022
+E0011,Tech Talk 2025,Technical,Tech Talk,2025-06-19,Photography Club,Seminar Hall,170,0,300,2,1,0,0,16,4,4.1,Thursday,6,0,Morning,0,0,Even,2024
+E0012,Resume Clinic 2023,Career,Resume Clinic,2023-04-20,Literary Society,Seminar Hall,171,0,150,3,0,0,1,19,5,4.0,Thursday,4,0,Morning,1,0,Even,2022
+E0013,AI/ML Workshop 2025,Workshop,AI/ML Workshop,2025-10-27,Robotics Club,Classroom Block,88,1,0,4,1,0,1,11,1,5.0,Monday,10,0,Morning,0,0,Odd,2025
+E0014,AI/ML Workshop 2025,Workshop,AI/ML Workshop,2025-07-08,Robotics Club,Classroom Block,76,0,200,2,1,0,1,17,4,3.8,Tuesday,7,0,Morning,0,0,Odd,2025
+E0015,Hackathon 2023,Technical,Hackathon,2023-10-18,Entrepreneurship Cell,Seminar Hall,172,1,0,1,0,1,1,23,5,4.2,Wednesday,10,0,Morning,0,0,Odd,2023
+E0016,Marathon 2022,Sports,Marathon,2022-10-24,Sports Council,Open Ground,1105,0,100,8,0,1,0,23,3,,Monday,10,0,Morning,0,0,Odd,2022
+E0017,Marathon 2023,Sports,Marathon,2023-04-23,Entrepreneurship Cell,Sports Complex,528,1,0,10,0,1,1,6,3,,Sunday,4,1,Afternoon,1,0,Even,2022
+E0018,Tech Talk 2024,Technical,Tech Talk,2024-07-29,Sports Council,Online (Zoom),1931,1,0,3,1,0,0,7,5,5.0,Monday,7,0,Morning,0,0,Odd,2024
+E0019,Robotics Challenge 2024,Technical,Robotics Challenge,2024-02-04,Entrepreneurship Cell,Online (Zoom),1589,0,200,3,1,1,1,22,4,4.6,Sunday,2,1,Morning,0,0,Even,2023
+E0020,Data Science Workshop 2025,Workshop,Data Science Workshop,2025-06-25,Entrepreneurship Cell,Computer Lab,70,0,50,2,1,1,1,16,2,5.0,Wednesday,6,0,Afternoon,0,0,Even,2024
+E0021,Design Workshop 2023,Workshop,Design Workshop,2023-09-22,Literary Society,Classroom Block,86,1,0,1,1,0,1,14,2,4.3,Friday,9,0,Afternoon,0,0,Odd,2023
+E0022,Soft Skills Workshop 2023,Workshop,Soft Skills Workshop,2023-02-09,NSS Unit,Classroom Block,79,1,0,4,1,0,0,29,1,2.8,Thursday,2,0,Afternoon,0,0,Even,2022
+E0023,Placement Drive 2024,Career,Placement Drive,2024-10-27,Sports Council,Classroom Block,73,1,0,2,1,0,1,6,5,3.3,Sunday,10,1,Evening,0,0,Odd,2024
+E0024,Cleanliness Drive 2025,Social/NSS,Cleanliness Drive,2025-09-03,Photography Club,Auditorium,442,1,0,6,1,0,0,27,2,,Wednesday,9,0,Morning,0,0,Odd,2025
+E0025,Mock Interview 2024,Career,Mock Interview,2024-06-03,NSS Unit,Online (Zoom),1240,0,300,6,0,0,1,17,5,3.7,Monday,6,0,Afternoon,0,1,Even,2023
+E0026,Coding Contest 2024,Technical,Coding Contest,2024-12-15,Entrepreneurship Cell,Online (Zoom),1992,1,0,2,1,1,0,29,2,3.9,Sunday,12,1,Afternoon,1,0,Odd,2024
+E0027,Music Night 2024,Cultural,Music Night,2024-07-06,Robotics Club,Auditorium,415,1,0,6,0,1,1,16,3,,Saturday,7,1,Morning,0,0,Odd,2024
+E0028,Guest Lecture 2023,Seminar,Guest Lecture,2023-04-17,Sports Council,Classroom Block,78,1,0,4,1,0,0,25,1,4.9,Monday,4,0,Morning,1,0,Even,2022
+E0029,Mock Interview 2024,Career,Mock Interview,2024-05-26,NSS Unit,Auditorium,557,1,0,4,0,0,1,8,1,5.0,Sunday,5,1,Morning,1,0,Even,2023
+E0030,Mock Interview 2025,Career,Mock Interview,2025-11-20,Cultural Committee,Online (Zoom),1839,0,100,1,1,0,0,24,4,3.7,Thursday,11,0,Afternoon,1,0,Odd,2025
+E0031,AI/ML Workshop 2025,Workshop,AI/ML Workshop,2025-12-10,Cultural Committee,Online (Zoom),1997,1,0,3,1,0,0,8,4,3.7,Wednesday,12,0,Morning,1,0,Odd,2025
+E0032,Mock Interview 2025,Career,Mock Interview,2025-05-17,Literary Society,Seminar Hall,139,1,0,2,0,0,1,28,2,4.8,Saturday,5,1,Evening,1,0,Even,2024
+E0033,Coding Contest 2024,Technical,Coding Contest,2024-04-08,Cultural Committee,Classroom Block,74,1,0,1,1,1,1,18,4,4.6,Monday,4,0,Morning,1,0,Even,2023
+E0034,Drama 2022,Cultural,Drama,2022-09-10,NSS Unit,Seminar Hall,177,0,100,4,0,1,1,24,2,,Saturday,9,1,Afternoon,0,0,Odd,2022
+E0035,Robotics Challenge 2024,Technical,Robotics Challenge,2024-01-02,Cultural Committee,Auditorium,553,1,0,1,1,1,0,28,4,4.4,Tuesday,1,0,Afternoon,0,0,Even,2023
+E0036,Drama 2025,Cultural,Drama,2025-05-08,Cultural Committee,Seminar Hall,148,1,0,8,1,1,0,4,4,,Thursday,5,0,Evening,1,0,Even,2024
+E0037,Industry Panel 2025,Seminar,Industry Panel,2025-09-30,Robotics Club,Classroom Block,116,0,300,3,1,0,1,11,5,4.0,Tuesday,9,0,Morning,0,0,Odd,2025
+E0038,Coding Contest 2024,Technical,Coding Contest,2024-06-28,Sports Council,Auditorium,545,0,100,2,1,1,1,18,4,3.3,Friday,6,0,Afternoon,0,0,Even,2023
+E0039,Alumni Talk 2022,Seminar,Alumni Talk,2022-08-05,Placement Cell,Auditorium,458,0,100,2,1,0,1,2,5,3.3,Friday,8,0,Afternoon,0,0,Odd,2022
+E0040,Research Seminar 2025,Seminar,Research Seminar,2025-07-28,Entrepreneurship Cell,Classroom Block,106,1,0,3,1,1,0,3,5,1.7,Monday,7,0,Morning,0,0,Odd,2025
+E0041,Resume Clinic 2025,Career,Resume Clinic,2025-05-23,Photography Club,Auditorium,360,1,0,4,0,0,1,21,2,3.4,Friday,5,0,Afternoon,1,0,Even,2024
+E0042,Blood Donation Camp 2024,Social/NSS,Blood Donation Camp,2024-07-14,Entrepreneurship Cell,Open Ground,1103,1,0,2,0,0,0,7,5,,Sunday,7,1,Morning,0,0,Odd,2024
+E0043,Alumni Talk 2023,Seminar,Alumni Talk,2023-11-30,Placement Cell,Online (Zoom),1335,1,0,3,1,0,0,16,3,3.5,Thursday,11,0,Evening,1,0,Odd,2023
+E0044,Design Workshop 2025,Workshop,Design Workshop,2025-04-01,Cultural Committee,Classroom Block,86,0,150,2,1,0,0,21,1,4.2,Tuesday,4,0,Evening,1,0,Even,2024
+E0045,Guest Lecture 2023,Seminar,Guest Lecture,2023-07-15,Placement Cell,Online (Zoom),1367,0,50,4,1,0,0,24,5,3.1,Saturday,7,1,Morning,0,0,Odd,2023
+E0046,Tech Talk 2025,Technical,Tech Talk,2025-05-17,Entrepreneurship Cell,Classroom Block,106,0,50,1,1,0,1,28,1,4.8,Saturday,5,1,Afternoon,1,0,Even,2024
+E0047,Research Seminar 2023,Seminar,Research Seminar,2023-08-25,Coding Club,Classroom Block,111,0,50,1,1,0,0,2,1,5.0,Friday,8,0,Morning,0,1,Odd,2023
+E0048,Career Fair 2025,Career,Career Fair,2025-04-01,Entrepreneurship Cell,Classroom Block,80,0,50,1,1,0,1,2,3,4.1,Tuesday,4,0,Evening,1,0,Even,2024
+E0049,Cricket Tournament 2024,Sports,Cricket Tournament,2024-11-07,Coding Club,Sports Complex,613,0,100,6,0,1,0,3,4,,Thursday,11,0,Morning,1,0,Odd,2024
+E0050,Project Expo 2022,Technical,Project Expo,2022-09-13,Robotics Club,Seminar Hall,167,1,0,3,1,0,0,23,3,2.8,Tuesday,9,0,Afternoon,0,0,Odd,2022
+E0051,Dance Competition 2022,Cultural,Dance Competition,2022-08-16,Photography Club,Auditorium,394,1,0,6,0,1,0,4,4,,Tuesday,8,0,Evening,0,0,Odd,2022
+E0052,Project Expo 2024,Technical,Project Expo,2024-10-18,Coding Club,Seminar Hall,148,1,0,3,1,1,0,15,5,2.9,Friday,10,0,Morning,0,0,Odd,2024
+E0053,Web Dev Workshop 2024,Workshop,Web Dev Workshop,2024-01-21,Photography Club,Classroom Block,81,0,50,2,1,0,0,2,3,2.7,Sunday,1,1,Evening,0,0,Even,2023
+E0054,Internship Meet 2025,Career,Internship Meet,2025-08-06,Sports Council,Seminar Hall,164,1,0,4,0,0,1,25,5,3.0,Wednesday,8,0,Afternoon,0,1,Odd,2025
+E0055,Tech Talk 2025,Technical,Tech Talk,2025-03-10,Coding Club,Auditorium,576,0,150,2,1,0,0,25,4,3.8,Monday,3,0,Afternoon,0,0,Even,2024
+E0056,Cricket Tournament 2025,Sports,Cricket Tournament,2025-09-25,Robotics Club,Open Ground,1177,0,100,4,0,1,1,20,3,,Thursday,9,0,Morning,0,0,Odd,2025
+E0057,Data Science Workshop 2023,Workshop,Data Science Workshop,2023-03-06,NSS Unit,Online (Zoom),1736,0,500,2,1,0,1,30,3,3.8,Monday,3,0,Afternoon,0,0,Even,2022
+E0058,Internship Meet 2025,Career,Internship Meet,2025-02-23,Placement Cell,Auditorium,532,1,0,3,1,0,0,19,5,3.1,Sunday,2,1,Afternoon,0,0,Even,2024
+E0059,Coding Contest 2024,Technical,Coding Contest,2024-01-08,Photography Club,Online (Zoom),1992,0,50,1,0,1,0,21,2,4.0,Monday,1,0,Afternoon,0,0,Even,2023
+E0060,Web Dev Workshop 2023,Workshop,Web Dev Workshop,2023-07-27,Photography Club,Computer Lab,68,1,0,6,1,0,0,14,2,3.4,Thursday,7,0,Afternoon,0,0,Odd,2023
+E0061,Hackathon 2023,Technical,Hackathon,2023-10-18,IEEE Chapter,Online (Zoom),1348,0,150,2,1,1,1,30,4,4.0,Wednesday,10,0,Afternoon,0,0,Odd,2023
+E0062,Fashion Show 2025,Cultural,Fashion Show,2025-06-19,Entrepreneurship Cell,Seminar Hall,120,0,200,6,1,1,0,12,4,,Thursday,6,0,Afternoon,0,0,Even,2024
+E0063,Drama 2024,Cultural,Drama,2024-05-04,Sports Council,Open Ground,983,1,0,4,0,1,0,9,1,,Saturday,5,1,Afternoon,1,0,Even,2023
+E0064,Hackathon 2022,Technical,Hackathon,2022-08-02,Coding Club,Online (Zoom),1299,0,150,2,1,1,0,16,4,3.4,Tuesday,8,0,Afternoon,0,0,Odd,2022
+E0065,Project Expo 2024,Technical,Project Expo,2024-02-25,Literary Society,Seminar Hall,161,1,0,4,1,1,0,7,1,4.3,Sunday,2,1,Evening,0,0,Even,2023
+E0066,Music Night 2025,Cultural,Music Night,2025-02-28,Placement Cell,Auditorium,465,0,100,4,0,0,0,21,3,,Friday,2,0,Afternoon,0,0,Even,2024
+E0067,Coding Contest 2025,Technical,Coding Contest,2025-02-02,Photography Club,Online (Zoom),1691,0,150,2,1,1,1,19,2,3.0,Sunday,2,1,Morning,0,0,Even,2024
+E0068,Internship Meet 2024,Career,Internship Meet,2024-03-05,Sports Council,Auditorium,378,1,0,3,0,0,1,12,2,3.4,Tuesday,3,0,Evening,0,0,Even,2023
+E0069,Cleanliness Drive 2025,Social/NSS,Cleanliness Drive,2025-03-30,Sports Council,Open Ground,1392,1,0,4,1,0,1,2,4,,Sunday,3,1,Evening,0,0,Even,2024
+E0070,Placement Drive 2025,Career,Placement Drive,2025-07-16,Literary Society,Online (Zoom),1287,1,0,1,0,0,1,16,1,4.7,Wednesday,7,0,Evening,0,0,Odd,2025
+E0071,Tech Talk 2022,Technical,Tech Talk,2022-09-09,IEEE Chapter,Classroom Block,104,0,200,1,1,1,1,17,2,4.2,Friday,9,0,Morning,0,0,Odd,2022
+E0072,Drama 2024,Cultural,Drama,2024-03-25,Cultural Committee,Seminar Hall,175,1,0,8,1,1,0,19,1,,Monday,3,0,Morning,0,0,Even,2023
+E0073,Cricket Tournament 2025,Sports,Cricket Tournament,2025-07-13,Entrepreneurship Cell,Sports Complex,661,0,150,6,0,1,0,3,1,,Sunday,7,1,Morning,0,1,Odd,2025
+E0074,Dance Competition 2023,Cultural,Dance Competition,2023-12-16,Robotics Club,Open Ground,1004,0,150,10,0,0,0,2,2,,Saturday,12,1,Evening,1,0,Odd,2023
+E0075,Internship Meet 2025,Career,Internship Meet,2025-12-11,Entrepreneurship Cell,Classroom Block,101,0,200,3,0,0,1,24,4,4.1,Thursday,12,0,Afternoon,1,1,Odd,2025
+E0076,AI/ML Workshop 2025,Workshop,AI/ML Workshop,2025-06-01,Literary Society,Computer Lab,77,0,100,3,0,0,1,8,4,3.4,Sunday,6,1,Morning,0,0,Even,2024
+E0077,Tech Talk 2023,Technical,Tech Talk,2023-02-27,Cultural Committee,Classroom Block,110,1,0,2,1,1,0,27,5,4.5,Monday,2,0,Morning,0,0,Even,2022
+E0078,Robotics Challenge 2023,Technical,Robotics Challenge,2023-08-20,IEEE Chapter,Online (Zoom),1303,0,300,2,1,1,0,7,2,4.0,Sunday,8,1,Evening,0,0,Odd,2023
+E0079,Web Dev Workshop 2023,Workshop,Web Dev Workshop,2023-11-07,Entrepreneurship Cell,Classroom Block,87,0,50,2,1,0,0,12,2,3.7,Tuesday,11,0,Afternoon,1,0,Odd,2023
+E0080,Career Fair 2024,Career,Career Fair,2024-03-08,IEEE Chapter,Auditorium,549,1,0,1,0,0,0,27,5,4.5,Friday,3,0,Afternoon,0,0,Even,2023
+E0081,Design Workshop 2024,Workshop,Design Workshop,2024-11-20,Photography Club,Computer Lab,54,0,50,6,1,1,1,5,1,3.9,Wednesday,11,0,Morning,1,0,Odd,2024
+E0082,Fashion Show 2025,Cultural,Fashion Show,2025-05-31,Photography Club,Open Ground,1328,0,100,6,0,0,0,28,3,,Saturday,5,1,Morning,1,0,Even,2024
+E0083,Web Dev Workshop 2024,Workshop,Web Dev Workshop,2024-06-06,IEEE Chapter,Online (Zoom),1934,0,200,1,1,0,1,2,4,4.5,Thursday,6,0,Afternoon,0,0,Even,2023
+E0084,Web Dev Workshop 2022,Workshop,Web Dev Workshop,2022-07-17,Robotics Club,Classroom Block,85,0,50,4,1,0,1,7,3,3.5,Sunday,7,1,Morning,0,1,Odd,2022
+E0085,Industry Panel 2025,Seminar,Industry Panel,2025-06-14,Coding Club,Auditorium,382,1,0,2,1,0,1,10,5,3.1,Saturday,6,1,Morning,0,1,Even,2024
+E0086,Cricket Tournament 2023,Sports,Cricket Tournament,2023-09-15,Photography Club,Open Ground,1176,0,100,10,0,0,0,22,2,,Friday,9,0,Afternoon,0,0,Odd,2023
+E0087,Industry Panel 2023,Seminar,Industry Panel,2023-09-16,Cultural Committee,Seminar Hall,145,1,0,3,1,0,1,18,1,5.0,Saturday,9,1,Morning,0,0,Odd,2023
+E0088,Fashion Show 2025,Cultural,Fashion Show,2025-05-17,Robotics Club,Auditorium,482,0,50,8,1,1,1,14,1,,Saturday,5,1,Evening,1,0,Even,2024
+E0089,Robotics Challenge 2025,Technical,Robotics Challenge,2025-04-24,Placement Cell,Seminar Hall,144,1,0,2,1,0,0,18,3,4.4,Thursday,4,0,Afternoon,1,0,Even,2024
+E0090,Guest Lecture 2025,Seminar,Guest Lecture,2025-07-15,NSS Unit,Auditorium,480,0,150,3,1,0,1,17,3,3.9,Tuesday,7,0,Morning,0,0,Odd,2025
+E0091,Blood Donation Camp 2025,Social/NSS,Blood Donation Camp,2025-08-28,Robotics Club,Auditorium,397,1,0,2,0,0,0,25,3,,Thursday,8,0,Morning,0,0,Odd,2025
+E0092,Tree Plantation 2023,Social/NSS,Tree Plantation,2023-01-19,Cultural Committee,Auditorium,401,1,0,2,0,0,0,13,2,,Thursday,1,0,Afternoon,0,1,Even,2022
+E0093,Alumni Talk 2023,Seminar,Alumni Talk,2023-02-10,IEEE Chapter,Seminar Hall,150,0,200,1,1,0,1,28,3,4.5,Friday,2,0,Afternoon,0,0,Even,2022
+E0094,Design Workshop 2024,Workshop,Design Workshop,2024-01-13,Sports Council,Online (Zoom),1271,0,50,2,1,1,1,15,5,4.4,Saturday,1,1,Afternoon,0,0,Even,2023
+E0095,Dance Competition 2025,Cultural,Dance Competition,2025-11-23,Sports Council,Seminar Hall,198,0,200,4,1,1,1,26,3,,Sunday,11,1,Afternoon,1,1,Odd,2025
+E0096,Blood Donation Camp 2023,Social/NSS,Blood Donation Camp,2023-09-08,Photography Club,Auditorium,437,0,100,1,0,0,0,22,4,,Friday,9,0,Afternoon,0,0,Odd,2023
+E0097,Athletics Day 2023,Sports,Athletics Day,2023-09-05,Cultural Committee,Sports Complex,543,0,500,8,1,1,0,13,5,,Tuesday,9,0,Afternoon,0,0,Odd,2023
+E0098,Alumni Talk 2025,Seminar,Alumni Talk,2025-11-14,Photography Club,Auditorium,528,1,0,3,1,0,1,10,1,4.4,Friday,11,0,Morning,1,1,Odd,2025
+E0099,AI/ML Workshop 2025,Workshop,AI/ML Workshop,2025-11-06,Coding Club,Online (Zoom),1536,1,0,3,1,0,0,16,2,2.7,Thursday,11,0,Morning,1,0,Odd,2025
+E0100,Mock Interview 2024,Career,Mock Interview,2024-06-12,Sports Council,Seminar Hall,196,1,0,3,0,0,1,2,3,4.4,Wednesday,6,0,Morning,0,1,Even,2023
+E0101,Data Science Workshop 2024,Workshop,Data Science Workshop,2024-07-27,NSS Unit,Computer Lab,49,1,0,3,1,0,0,11,4,3.0,Saturday,7,1,Afternoon,0,0,Odd,2024
+E0102,Dance Competition 2023,Cultural,Dance Competition,2023-11-17,Sports Council,Open Ground,1187,1,0,4,1,1,0,16,5,,Friday,11,0,Morning,1,0,Odd,2023
+E0103,Placement Drive 2025,Career,Placement Drive,2025-05-04,Sports Council,Auditorium,416,1,0,2,0,0,0,12,4,3.4,Sunday,5,1,Morning,1,0,Even,2024
+E0104,Tech Talk 2025,Technical,Tech Talk,2025-07-06,Entrepreneurship Cell,Auditorium,528,0,500,3,1,1,1,4,5,4.2,Sunday,7,1,Morning,0,1,Odd,2025
+E0105,Hackathon 2023,Technical,Hackathon,2023-05-30,Coding Club,Auditorium,490,1,0,2,1,0,0,19,5,3.4,Tuesday,5,0,Evening,1,0,Even,2022
+E0106,Drama 2024,Cultural,Drama,2024-12-11,IEEE Chapter,Auditorium,417,1,0,6,1,1,1,29,5,,Wednesday,12,0,Morning,1,0,Odd,2024
+E0107,Fashion Show 2024,Cultural,Fashion Show,2024-04-19,Placement Cell,Auditorium,486,0,50,8,0,0,1,14,4,,Friday,4,0,Afternoon,1,0,Even,2023
+E0108,Resume Clinic 2024,Career,Resume Clinic,2024-12-17,IEEE Chapter,Auditorium,546,1,0,3,0,0,1,11,5,4.0,Tuesday,12,0,Evening,1,0,Odd,2024
+E0109,Athletics Day 2023,Sports,Athletics Day,2023-12-19,NSS Unit,Open Ground,1484,0,300,8,0,1,1,22,5,,Tuesday,12,0,Evening,1,0,Odd,2023
+E0110,Internship Meet 2024,Career,Internship Meet,2024-08-11,Photography Club,Auditorium,414,1,0,2,0,0,1,2,2,3.5,Sunday,8,1,Evening,0,0,Odd,2024
+E0111,Fashion Show 2024,Cultural,Fashion Show,2024-09-13,NSS Unit,Auditorium,373,0,50,10,0,1,0,28,3,,Friday,9,0,Afternoon,0,0,Odd,2024
+E0112,Drama 2023,Cultural,Drama,2023-12-09,IEEE Chapter,Auditorium,495,1,0,4,0,1,1,15,4,,Saturday,12,1,Morning,1,0,Odd,2023
+E0113,Guest Lecture 2023,Seminar,Guest Lecture,2023-03-28,Placement Cell,Seminar Hall,144,1,0,2,1,0,0,24,2,4.9,Tuesday,3,0,Afternoon,0,0,Even,2022
+E0114,Music Night 2022,Cultural,Music Night,2022-11-02,IEEE Chapter,Open Ground,1346,1,0,10,0,1,1,11,4,,Wednesday,11,0,Afternoon,1,0,Odd,2022
+E0115,Robotics Challenge 2025,Technical,Robotics Challenge,2025-11-09,NSS Unit,Auditorium,544,0,50,4,0,1,0,7,4,4.2,Sunday,11,1,Afternoon,1,0,Odd,2025
+E0116,Tech Talk 2024,Technical,Tech Talk,2024-09-08,Entrepreneurship Cell,Classroom Block,81,1,0,1,1,1,1,21,5,3.7,Sunday,9,1,Afternoon,0,0,Odd,2024
+E0117,Tech Talk 2024,Technical,Tech Talk,2024-01-17,Sports Council,Online (Zoom),1557,0,150,1,1,1,0,10,2,5.0,Wednesday,1,0,Morning,0,0,Even,2023
+E0118,Soft Skills Workshop 2023,Workshop,Soft Skills Workshop,2023-12-06,IEEE Chapter,Computer Lab,48,1,0,2,1,0,1,22,5,3.5,Wednesday,12,0,Morning,1,0,Odd,2023
+E0119,Coding Contest 2023,Technical,Coding Contest,2023-11-30,Robotics Club,Auditorium,534,1,0,2,1,1,1,22,5,3.9,Thursday,11,0,Afternoon,1,0,Odd,2023
+E0120,Web Dev Workshop 2024,Workshop,Web Dev Workshop,2024-01-23,IEEE Chapter,Computer Lab,65,0,50,3,1,0,1,22,3,2.5,Tuesday,1,0,Evening,0,0,Even,2023
+E0121,Research Seminar 2024,Seminar,Research Seminar,2024-01-15,Sports Council,Classroom Block,118,1,0,4,1,0,0,24,3,5.0,Monday,1,0,Afternoon,0,0,Even,2023
+E0122,Alumni Talk 2025,Seminar,Alumni Talk,2025-09-09,Literary Society,Auditorium,441,0,100,2,1,0,0,13,2,3.5,Tuesday,9,0,Morning,0,0,Odd,2025
+E0123,Design Workshop 2024,Workshop,Design Workshop,2024-01-24,NSS Unit,Online (Zoom),1725,0,50,1,0,0,0,30,4,4.8,Wednesday,1,0,Evening,0,0,Even,2023
+E0124,Cricket Tournament 2024,Sports,Cricket Tournament,2024-12-27,Photography Club,Open Ground,1243,0,100,8,0,1,0,26,3,,Friday,12,0,Afternoon,1,0,Odd,2024
+E0125,Tree Plantation 2024,Social/NSS,Tree Plantation,2024-03-10,Robotics Club,Seminar Hall,164,0,50,3,1,0,0,15,4,,Sunday,3,1,Evening,0,1,Even,2023
+E0126,Coding Contest 2025,Technical,Coding Contest,2025-03-14,Photography Club,Classroom Block,92,1,0,3,1,0,0,3,5,3.4,Friday,3,0,Evening,0,1,Even,2024
+E0127,Research Seminar 2022,Seminar,Research Seminar,2022-07-15,Robotics Club,Classroom Block,89,1,0,4,0,0,1,3,4,3.2,Friday,7,0,Afternoon,0,0,Odd,2022
+E0128,Cultural Fest 2025,Cultural,Cultural Fest,2025-02-15,Entrepreneurship Cell,Seminar Hall,138,1,0,4,0,1,1,15,3,,Saturday,2,1,Evening,0,1,Even,2024
+E0129,Resume Clinic 2023,Career,Resume Clinic,2023-04-04,Entrepreneurship Cell,Seminar Hall,175,1,0,1,0,0,0,2,1,3.8,Tuesday,4,0,Afternoon,1,0,Even,2022
+E0130,Web Dev Workshop 2023,Workshop,Web Dev Workshop,2023-12-29,Sports Council,Computer Lab,70,0,100,4,1,0,0,29,1,3.6,Friday,12,0,Afternoon,1,0,Odd,2023
+E0131,Tech Talk 2024,Technical,Tech Talk,2024-09-03,NSS Unit,Seminar Hall,173,1,0,3,1,1,0,14,4,2.8,Tuesday,9,0,Morning,0,0,Odd,2024
+E0132,Placement Drive 2024,Career,Placement Drive,2024-06-05,Robotics Club,Auditorium,594,1,0,4,0,0,1,14,3,4.1,Wednesday,6,0,Evening,0,0,Even,2023
+E0133,Coding Contest 2022,Technical,Coding Contest,2022-09-04,Entrepreneurship Cell,Online (Zoom),1460,0,500,3,1,1,1,17,1,2.5,Sunday,9,1,Afternoon,0,0,Odd,2022
+E0134,Placement Drive 2024,Career,Placement Drive,2024-05-17,Entrepreneurship Cell,Auditorium,398,1,0,4,0,0,1,30,4,3.7,Friday,5,0,Morning,1,1,Even,2023
+E0135,Data Science Workshop 2022,Workshop,Data Science Workshop,2022-12-12,Sports Council,Classroom Block,74,1,0,4,1,0,0,19,4,2.8,Monday,12,0,Afternoon,1,0,Odd,2022
+E0136,Project Expo 2023,Technical,Project Expo,2023-05-01,NSS Unit,Auditorium,391,1,0,2,0,1,1,22,5,4.5,Monday,5,0,Morning,1,0,Even,2022
+E0137,AI/ML Workshop 2024,Workshop,AI/ML Workshop,2024-02-06,Sports Council,Online (Zoom),1412,1,0,3,1,1,0,18,2,4.8,Tuesday,2,0,Afternoon,0,0,Even,2023
+E0138,Web Dev Workshop 2024,Workshop,Web Dev Workshop,2024-09-07,Entrepreneurship Cell,Online (Zoom),1247,1,0,3,1,0,1,13,3,4.3,Saturday,9,1,Afternoon,0,0,Odd,2024
+E0139,Dance Competition 2024,Cultural,Dance Competition,2024-04-22,IEEE Chapter,Seminar Hall,195,1,0,8,0,1,0,4,4,,Monday,4,0,Afternoon,1,0,Even,2023
+E0140,Career Fair 2023,Career,Career Fair,2023-10-17,Placement Cell,Online (Zoom),1460,1,0,1,0,0,0,21,4,3.4,Tuesday,10,0,Afternoon,0,0,Odd,2023
+E0141,Hackathon 2022,Technical,Hackathon,2022-10-21,Literary Society,Seminar Hall,194,1,0,1,0,1,0,16,2,3.7,Friday,10,0,Afternoon,0,0,Odd,2022
+E0142,Project Expo 2022,Technical,Project Expo,2022-09-07,Robotics Club,Auditorium,450,0,300,2,1,0,0,29,2,3.9,Wednesday,9,0,Evening,0,0,Odd,2022
+E0143,Drama 2024,Cultural,Drama,2024-01-16,Photography Club,Seminar Hall,163,1,0,6,0,0,0,6,4,,Tuesday,1,0,Evening,0,0,Even,2023
+E0144,Career Fair 2025,Career,Career Fair,2025-11-07,NSS Unit,Auditorium,502,1,0,3,0,0,1,26,2,4.2,Friday,11,0,Morning,1,0,Odd,2025
+E0145,Robotics Challenge 2025,Technical,Robotics Challenge,2025-04-28,Placement Cell,Auditorium,455,1,0,3,1,1,1,21,5,2.5,Monday,4,0,Morning,1,0,Even,2024
+E0146,Internship Meet 2023,Career,Internship Meet,2023-12-08,Placement Cell,Classroom Block,89,1,0,1,0,0,0,7,2,4.4,Friday,12,0,Morning,1,0,Odd,2023
+E0147,Research Seminar 2023,Seminar,Research Seminar,2023-03-23,Photography Club,Auditorium,519,1,0,4,1,0,1,17,1,4.2,Thursday,3,0,Afternoon,0,1,Even,2022
+E0148,Data Science Workshop 2023,Workshop,Data Science Workshop,2023-09-15,Literary Society,Online (Zoom),1920,0,50,3,1,0,0,25,4,3.4,Friday,9,0,Morning,0,0,Odd,2023
+E0149,Cricket Tournament 2024,Sports,Cricket Tournament,2024-03-10,Photography Club,Open Ground,1348,0,100,10,0,1,0,22,4,,Sunday,3,1,Afternoon,0,0,Even,2023
+E0150,Dance Competition 2024,Cultural,Dance Competition,2024-08-31,Sports Council,Auditorium,465,0,100,10,0,1,1,8,5,,Saturday,8,1,Evening,0,0,Odd,2024
+E0151,Robotics Challenge 2024,Technical,Robotics Challenge,2024-05-29,IEEE Chapter,Classroom Block,109,1,0,4,1,1,1,22,2,4.0,Wednesday,5,0,Afternoon,1,0,Even,2023
+E0152,Data Science Workshop 2024,Workshop,Data Science Workshop,2024-01-24,IEEE Chapter,Online (Zoom),1706,0,150,3,0,0,1,4,5,3.1,Wednesday,1,0,Afternoon,0,0,Even,2023
+E0153,Marathon 2024,Sports,Marathon,2024-09-08,Placement Cell,Open Ground,1206,0,200,10,0,1,1,6,5,,Sunday,9,1,Morning,0,0,Odd,2024
+E0154,Music Night 2025,Cultural,Music Night,2025-11-16,Placement Cell,Open Ground,1430,1,0,10,0,1,1,13,3,,Sunday,11,1,Morning,1,0,Odd,2025
+E0155,Drama 2023,Cultural,Drama,2023-12-07,Robotics Club,Seminar Hall,160,1,0,8,0,1,1,3,2,,Thursday,12,0,Morning,1,0,Odd,2023
+E0156,Robotics Challenge 2022,Technical,Robotics Challenge,2022-09-02,NSS Unit,Seminar Hall,155,0,50,6,1,1,1,19,3,3.8,Friday,9,0,Morning,0,0,Odd,2022
+E0157,Coding Contest 2025,Technical,Coding Contest,2025-06-09,Placement Cell,Auditorium,520,0,100,3,1,1,1,7,4,2.5,Monday,6,0,Afternoon,0,0,Even,2024
+E0158,Badminton Meet 2025,Sports,Badminton Meet,2025-04-27,Cultural Committee,Sports Complex,618,0,100,8,0,1,1,11,5,,Sunday,4,1,Evening,1,0,Even,2024
+E0159,Tree Plantation 2024,Social/NSS,Tree Plantation,2024-07-13,Entrepreneurship Cell,Open Ground,1072,1,0,3,0,0,1,19,3,,Saturday,7,1,Evening,0,0,Odd,2024
+E0160,Blood Donation Camp 2022,Social/NSS,Blood Donation Camp,2022-07-27,Coding Club,Open Ground,1209,1,0,3,0,0,0,26,5,,Wednesday,7,0,Evening,0,0,Odd,2022
+E0161,Tech Talk 2025,Technical,Tech Talk,2025-07-30,Literary Society,Auditorium,585,0,100,3,1,1,0,6,2,3.0,Wednesday,7,0,Morning,0,1,Odd,2025
+E0162,Soft Skills Workshop 2023,Workshop,Soft Skills Workshop,2023-02-16,Entrepreneurship Cell,Online (Zoom),1601,1,0,1,1,0,1,11,4,4.2,Thursday,2,0,Afternoon,0,0,Even,2022
+E0163,Music Night 2025,Cultural,Music Night,2025-11-01,Photography Club,Open Ground,1493,1,0,10,1,1,0,14,4,,Saturday,11,1,Morning,1,0,Odd,2025
+E0164,Soft Skills Workshop 2023,Workshop,Soft Skills Workshop,2023-02-05,IEEE Chapter,Classroom Block,111,1,0,6,1,0,0,5,4,4.6,Sunday,2,1,Morning,0,0,Even,2022
+E0165,Robotics Challenge 2022,Technical,Robotics Challenge,2022-07-04,Literary Society,Auditorium,476,0,50,4,1,1,0,7,4,3.1,Monday,7,0,Morning,0,0,Odd,2022
+E0166,Data Science Workshop 2023,Workshop,Data Science Workshop,2023-09-04,Photography Club,Online (Zoom),1470,0,100,1,1,0,0,16,4,2.5,Monday,9,0,Afternoon,0,0,Odd,2023
+E0167,Athletics Day 2024,Sports,Athletics Day,2024-03-14,Sports Council,Sports Complex,686,1,0,6,0,1,0,13,1,,Thursday,3,0,Afternoon,0,0,Even,2023
+E0168,Design Workshop 2025,Workshop,Design Workshop,2025-07-10,NSS Unit,Computer Lab,78,1,0,2,1,0,0,20,3,3.0,Thursday,7,0,Evening,0,1,Odd,2025
+E0169,Project Expo 2022,Technical,Project Expo,2022-08-23,IEEE Chapter,Seminar Hall,153,0,200,6,0,1,1,27,5,4.8,Tuesday,8,0,Morning,0,0,Odd,2022
+E0170,Soft Skills Workshop 2023,Workshop,Soft Skills Workshop,2023-05-04,Coding Club,Classroom Block,82,0,500,6,1,0,0,10,3,3.4,Thursday,5,0,Afternoon,1,1,Even,2022
+E0171,Cultural Fest 2024,Cultural,Cultural Fest,2024-10-08,Sports Council,Open Ground,978,1,0,8,0,1,1,7,1,,Tuesday,10,0,Afternoon,0,1,Odd,2024
+E0172,Badminton Meet 2024,Sports,Badminton Meet,2024-04-11,Placement Cell,Open Ground,1210,0,100,6,0,1,1,27,5,,Thursday,4,0,Afternoon,1,0,Even,2023
+E0173,Internship Meet 2025,Career,Internship Meet,2025-06-12,Sports Council,Online (Zoom),1555,1,0,1,0,0,0,12,4,4.1,Thursday,6,0,Afternoon,0,0,Even,2024
+E0174,Tech Talk 2024,Technical,Tech Talk,2024-02-25,Coding Club,Auditorium,483,0,150,1,1,1,0,3,3,3.5,Sunday,2,1,Morning,0,1,Even,2023
+E0175,Cultural Fest 2024,Cultural,Cultural Fest,2024-08-26,Literary Society,Open Ground,1191,0,100,4,0,1,0,28,5,,Monday,8,0,Afternoon,0,0,Odd,2024
+E0176,Web Dev Workshop 2023,Workshop,Web Dev Workshop,2023-04-25,Sports Council,Online (Zoom),1659,0,100,3,1,0,1,19,3,3.1,Tuesday,4,0,Morning,1,0,Even,2022
+E0177,Dance Competition 2023,Cultural,Dance Competition,2023-11-10,Coding Club,Open Ground,1088,1,0,10,0,1,1,30,5,,Friday,11,0,Morning,1,0,Odd,2023
+E0178,Football League 2024,Sports,Football League,2024-02-06,Entrepreneurship Cell,Sports Complex,632,1,0,10,0,1,1,26,1,,Tuesday,2,0,Morning,0,0,Even,2023
+E0179,Research Seminar 2024,Seminar,Research Seminar,2024-07-31,Sports Council,Seminar Hall,154,1,0,2,1,0,0,20,3,3.2,Wednesday,7,0,Afternoon,0,0,Odd,2024
+E0180,Data Science Workshop 2025,Workshop,Data Science Workshop,2025-05-31,Placement Cell,Computer Lab,64,0,100,3,1,0,1,25,3,4.0,Saturday,5,1,Evening,1,1,Even,2024
+E0181,Marathon 2023,Sports,Marathon,2023-08-23,Literary Society,Sports Complex,623,0,150,4,1,1,0,5,3,,Wednesday,8,0,Morning,0,0,Odd,2023
+E0182,Fashion Show 2024,Cultural,Fashion Show,2024-11-29,NSS Unit,Open Ground,1290,0,50,6,0,1,0,20,2,,Friday,11,0,Afternoon,1,0,Odd,2024
+E0183,Dance Competition 2023,Cultural,Dance Competition,2023-03-17,IEEE Chapter,Seminar Hall,176,0,200,8,0,1,1,6,1,,Friday,3,0,Morning,0,0,Even,2022
+E0184,Industry Panel 2023,Seminar,Industry Panel,2023-11-07,Literary Society,Auditorium,456,1,0,3,1,0,0,3,2,4.2,Tuesday,11,0,Morning,1,0,Odd,2023
+E0185,Marathon 2022,Sports,Marathon,2022-10-12,Literary Society,Sports Complex,714,0,100,6,0,1,1,25,5,,Wednesday,10,0,Afternoon,0,0,Odd,2022
+E0186,Cultural Fest 2023,Cultural,Cultural Fest,2023-06-06,NSS Unit,Auditorium,578,1,0,6,0,1,1,4,5,,Tuesday,6,0,Afternoon,0,0,Even,2022
+E0187,Web Dev Workshop 2025,Workshop,Web Dev Workshop,2025-03-28,NSS Unit,Classroom Block,108,1,0,6,0,0,1,2,1,3.6,Friday,3,0,Morning,0,0,Even,2024
+E0188,Marathon 2024,Sports,Marathon,2024-04-12,Cultural Committee,Sports Complex,728,0,150,8,0,0,1,15,5,,Friday,4,0,Morning,1,0,Even,2023
+E0189,Cricket Tournament 2025,Sports,Cricket Tournament,2025-08-19,Cultural Committee,Sports Complex,714,0,100,4,0,1,0,12,5,,Tuesday,8,0,Evening,0,0,Odd,2025
+E0190,Project Expo 2023,Technical,Project Expo,2023-04-10,Sports Council,Classroom Block,90,0,150,4,1,1,0,29,5,2.9,Monday,4,0,Afternoon,1,0,Even,2022
+E0191,Internship Meet 2023,Career,Internship Meet,2023-12-26,Photography Club,Classroom Block,117,1,0,3,0,0,0,21,2,3.9,Tuesday,12,0,Morning,1,0,Odd,2023
+E0192,Career Fair 2023,Career,Career Fair,2023-01-13,Photography Club,Seminar Hall,135,1,0,2,0,0,1,4,2,3.3,Friday,1,0,Morning,0,0,Even,2022
+E0193,Mock Interview 2023,Career,Mock Interview,2023-06-30,Robotics Club,Classroom Block,86,1,0,2,0,0,0,6,1,3.0,Friday,6,0,Evening,0,0,Even,2022
+E0194,Tech Talk 2022,Technical,Tech Talk,2022-08-24,Sports Council,Seminar Hall,136,0,200,4,1,1,0,26,4,1.7,Wednesday,8,0,Evening,0,0,Odd,2022
+E0195,Cricket Tournament 2023,Sports,Cricket Tournament,2023-03-26,IEEE Chapter,Open Ground,1190,1,0,4,0,1,1,25,1,,Sunday,3,1,Afternoon,0,0,Even,2022
+E0196,Tree Plantation 2022,Social/NSS,Tree Plantation,2022-07-14,NSS Unit,Open Ground,1348,1,0,4,1,0,1,25,2,,Thursday,7,0,Morning,0,0,Odd,2022
+E0197,Cleanliness Drive 2024,Social/NSS,Cleanliness Drive,2024-10-26,Sports Council,Seminar Hall,140,0,300,4,0,0,0,9,3,,Saturday,10,1,Afternoon,0,0,Odd,2024
+E0198,Robotics Challenge 2025,Technical,Robotics Challenge,2025-11-10,Cultural Committee,Seminar Hall,196,1,0,4,0,1,0,29,3,4.6,Monday,11,0,Afternoon,1,0,Odd,2025
+E0199,Hackathon 2022,Technical,Hackathon,2022-08-27,Photography Club,Online (Zoom),1728,0,100,4,1,0,0,15,2,4.2,Saturday,8,1,Morning,0,0,Odd,2022
+E0200,Badminton Meet 2023,Sports,Badminton Meet,2023-09-30,Entrepreneurship Cell,Sports Complex,779,0,500,8,0,0,0,6,2,,Saturday,9,1,Morning,0,0,Odd,2023
+E0201,Coding Contest 2025,Technical,Coding Contest,2025-07-27,Literary Society,Online (Zoom),1684,1,0,6,0,1,1,27,2,4.5,Sunday,7,1,Morning,0,0,Odd,2025
+E0202,Coding Contest 2022,Technical,Coding Contest,2022-08-17,Sports Council,Online (Zoom),1669,1,0,2,1,1,0,5,3,4.2,Wednesday,8,0,Morning,0,0,Odd,2022
+E0203,Marathon 2024,Sports,Marathon,2024-12-16,Photography Club,Open Ground,1478,1,0,8,1,1,1,5,1,,Monday,12,0,Afternoon,1,0,Odd,2024
+E0204,Hackathon 2024,Technical,Hackathon,2024-07-04,Sports Council,Classroom Block,117,0,150,1,1,1,1,12,2,3.0,Thursday,7,0,Afternoon,0,0,Odd,2024
+E0205,AI/ML Workshop 2025,Workshop,AI/ML Workshop,2025-05-12,Cultural Committee,Classroom Block,105,0,200,2,0,0,1,25,1,3.6,Monday,5,0,Evening,1,0,Even,2024
+E0206,Music Night 2024,Cultural,Music Night,2024-02-14,IEEE Chapter,Open Ground,968,1,0,10,0,1,0,17,2,,Wednesday,2,0,Evening,0,1,Even,2023
+E0207,Coding Contest 2022,Technical,Coding Contest,2022-10-11,Photography Club,Seminar Hall,129,1,0,4,1,1,0,6,2,3.5,Tuesday,10,0,Evening,0,0,Odd,2022
+E0208,Career Fair 2024,Career,Career Fair,2024-06-25,Literary Society,Auditorium,368,1,0,4,1,0,0,26,3,3.8,Tuesday,6,0,Morning,0,0,Even,2023
+E0209,Web Dev Workshop 2025,Workshop,Web Dev Workshop,2025-11-05,Photography Club,Computer Lab,52,1,0,2,1,0,0,17,2,5.0,Wednesday,11,0,Afternoon,1,0,Odd,2025
+E0210,Internship Meet 2024,Career,Internship Meet,2024-05-15,IEEE Chapter,Classroom Block,98,1,0,4,0,0,1,28,1,4.5,Wednesday,5,0,Morning,1,0,Even,2023
+E0211,Robotics Challenge 2022,Technical,Robotics Challenge,2022-09-02,Sports Council,Auditorium,466,0,100,3,1,1,1,19,2,4.8,Friday,9,0,Afternoon,0,0,Odd,2022
+E0212,Soft Skills Workshop 2022,Workshop,Soft Skills Workshop,2022-11-04,Placement Cell,Online (Zoom),1755,1,0,3,1,0,1,11,5,3.8,Friday,11,0,Morning,1,0,Odd,2022
+E0213,Badminton Meet 2024,Sports,Badminton Meet,2024-03-10,Placement Cell,Open Ground,1435,0,200,6,0,1,1,5,3,,Sunday,3,1,Afternoon,0,0,Even,2023
+E0214,Charity Run 2025,Social/NSS,Charity Run,2025-01-31,Photography Club,Open Ground,1125,1,0,4,0,0,1,25,2,,Friday,1,0,Morning,0,0,Even,2024
+E0215,Hackathon 2023,Technical,Hackathon,2023-03-24,Sports Council,Classroom Block,113,0,50,4,1,1,0,4,5,4.2,Friday,3,0,Afternoon,0,0,Even,2022
+E0216,Data Science Workshop 2023,Workshop,Data Science Workshop,2023-10-19,Sports Council,Computer Lab,76,1,0,3,1,0,0,26,4,4.2,Thursday,10,0,Afternoon,0,0,Odd,2023
+E0217,Coding Contest 2025,Technical,Coding Contest,2025-11-02,Placement Cell,Seminar Hall,174,0,100,2,1,1,0,23,4,5.0,Sunday,11,1,Morning,1,0,Odd,2025
+E0218,Mock Interview 2025,Career,Mock Interview,2025-12-10,Placement Cell,Classroom Block,112,1,0,2,0,0,1,13,1,4.3,Wednesday,12,0,Evening,1,1,Odd,2025
+E0219,Cultural Fest 2025,Cultural,Cultural Fest,2025-07-30,IEEE Chapter,Seminar Hall,194,0,50,4,1,1,0,18,2,,Wednesday,7,0,Morning,0,1,Odd,2025
+E0220,Cricket Tournament 2024,Sports,Cricket Tournament,2024-07-16,Cultural Committee,Sports Complex,626,0,300,6,0,1,0,15,2,,Tuesday,7,0,Morning,0,0,Odd,2024
+E0221,AI/ML Workshop 2025,Workshop,AI/ML Workshop,2025-08-02,Robotics Club,Classroom Block,96,0,100,3,1,0,1,3,4,4.5,Saturday,8,1,Afternoon,0,0,Odd,2025
+E0222,Fashion Show 2024,Cultural,Fashion Show,2024-03-11,IEEE Chapter,Open Ground,1209,1,0,10,0,1,1,27,1,,Monday,3,0,Afternoon,0,1,Even,2023
+E0223,Robotics Challenge 2025,Technical,Robotics Challenge,2025-12-04,Placement Cell,Auditorium,470,0,100,2,1,1,1,24,2,4.6,Thursday,12,0,Evening,1,0,Odd,2025
+E0224,Athletics Day 2023,Sports,Athletics Day,2023-09-30,Placement Cell,Sports Complex,783,1,0,4,0,1,0,27,5,,Saturday,9,1,Afternoon,0,0,Odd,2023
+E0225,Cultural Fest 2025,Cultural,Cultural Fest,2025-08-30,Photography Club,Auditorium,381,0,100,6,0,1,0,18,2,,Saturday,8,1,Morning,0,0,Odd,2025
+E0226,Drama 2024,Cultural,Drama,2024-05-11,Literary Society,Auditorium,447,1,0,6,1,1,0,29,5,,Saturday,5,1,Afternoon,1,0,Even,2023
+E0227,Project Expo 2025,Technical,Project Expo,2025-09-18,IEEE Chapter,Auditorium,577,0,100,3,1,0,1,3,1,4.8,Thursday,9,0,Evening,0,0,Odd,2025
+E0228,Alumni Talk 2024,Seminar,Alumni Talk,2024-02-18,Placement Cell,Classroom Block,109,1,0,1,0,1,1,19,5,3.6,Sunday,2,1,Morning,0,0,Even,2023
+E0229,Guest Lecture 2025,Seminar,Guest Lecture,2025-07-24,Sports Council,Auditorium,429,1,0,4,1,0,0,28,2,4.2,Thursday,7,0,Morning,0,0,Odd,2025
+E0230,Alumni Talk 2024,Seminar,Alumni Talk,2024-04-24,Cultural Committee,Online (Zoom),1730,0,100,1,1,0,1,16,2,4.0,Wednesday,4,0,Evening,1,0,Even,2023
+E0231,Cultural Fest 2025,Cultural,Cultural Fest,2025-04-26,Photography Club,Auditorium,360,0,150,8,0,1,0,15,4,,Saturday,4,1,Evening,1,0,Even,2024
+E0232,Cricket Tournament 2025,Sports,Cricket Tournament,2025-11-07,Photography Club,Sports Complex,650,0,100,10,0,1,0,25,3,,Friday,11,0,Evening,1,0,Odd,2025
+E0233,Design Workshop 2022,Workshop,Design Workshop,2022-10-09,Sports Council,Classroom Block,116,1,0,6,1,0,0,12,1,4.3,Sunday,10,1,Morning,0,0,Odd,2022
+E0234,Tree Plantation 2023,Social/NSS,Tree Plantation,2023-11-25,Sports Council,Seminar Hall,169,0,150,1,1,0,1,4,5,,Saturday,11,1,Afternoon,1,0,Odd,2023
+E0235,Fashion Show 2022,Cultural,Fashion Show,2022-07-06,Robotics Club,Open Ground,1445,1,0,8,1,1,0,9,4,,Wednesday,7,0,Morning,0,0,Odd,2022
+E0236,Research Seminar 2023,Seminar,Research Seminar,2023-06-20,Sports Council,Seminar Hall,126,0,100,2,1,0,0,27,2,5.0,Tuesday,6,0,Afternoon,0,0,Even,2022
+E0237,Data Science Workshop 2022,Workshop,Data Science Workshop,2022-09-01,Entrepreneurship Cell,Computer Lab,65,0,200,2,1,0,0,10,5,4.2,Thursday,9,0,Morning,0,0,Odd,2022
+E0238,Design Workshop 2023,Workshop,Design Workshop,2023-12-20,Photography Club,Online (Zoom),1747,0,50,2,1,0,0,8,1,4.2,Wednesday,12,0,Afternoon,1,0,Odd,2023
+E0239,Tech Talk 2023,Technical,Tech Talk,2023-09-07,Photography Club,Auditorium,367,1,0,2,1,0,0,14,5,3.7,Thursday,9,0,Evening,0,0,Odd,2023
+E0240,Research Seminar 2022,Seminar,Research Seminar,2022-09-04,Entrepreneurship Cell,Seminar Hall,189,1,0,4,1,0,0,15,3,2.8,Sunday,9,1,Morning,0,0,Odd,2022
+E0241,Cultural Fest 2023,Cultural,Cultural Fest,2023-10-25,Cultural Committee,Seminar Hall,140,0,100,6,1,0,1,29,5,,Wednesday,10,0,Morning,0,1,Odd,2023
+E0242,Drama 2024,Cultural,Drama,2024-01-28,Robotics Club,Open Ground,1418,1,0,10,0,0,0,21,5,,Sunday,1,1,Afternoon,0,0,Even,2023
+E0243,Badminton Meet 2022,Sports,Badminton Meet,2022-07-29,Cultural Committee,Sports Complex,569,0,150,6,0,1,1,24,5,,Friday,7,0,Afternoon,0,0,Odd,2022
+E0244,Career Fair 2025,Career,Career Fair,2025-09-05,Sports Council,Online (Zoom),1985,1,0,2,0,0,1,2,1,3.6,Friday,9,0,Afternoon,0,0,Odd,2025
+E0245,Soft Skills Workshop 2023,Workshop,Soft Skills Workshop,2023-07-28,Cultural Committee,Online (Zoom),1909,1,0,1,0,0,0,26,3,3.6,Friday,7,0,Afternoon,0,0,Odd,2023
+E0246,Project Expo 2023,Technical,Project Expo,2023-03-11,Coding Club,Seminar Hall,188,1,0,2,0,1,0,13,1,4.3,Saturday,3,1,Evening,0,0,Even,2022
+E0247,Hackathon 2022,Technical,Hackathon,2022-09-08,Cultural Committee,Classroom Block,104,1,0,2,1,1,0,4,2,3.0,Thursday,9,0,Afternoon,0,0,Odd,2022
+E0248,Data Science Workshop 2022,Workshop,Data Science Workshop,2022-10-21,Placement Cell,Computer Lab,60,1,0,1,0,1,1,10,3,4.5,Friday,10,0,Afternoon,0,0,Odd,2022
+E0249,Internship Meet 2024,Career,Internship Meet,2024-11-19,Coding Club,Auditorium,469,1,0,1,0,0,0,20,4,3.8,Tuesday,11,0,Afternoon,1,0,Odd,2024
+E0250,Soft Skills Workshop 2022,Workshop,Soft Skills Workshop,2022-07-21,Sports Council,Computer Lab,66,1,0,1,1,0,0,3,2,4.1,Thursday,7,0,Morning,0,0,Odd,2022
+E0251,Design Workshop 2022,Workshop,Design Workshop,2022-10-26,Cultural Committee,Online (Zoom),1413,1,0,2,1,0,0,23,1,5.0,Wednesday,10,0,Morning,0,0,Odd,2022
+E0252,Fashion Show 2024,Cultural,Fashion Show,2024-09-21,Literary Society,Auditorium,421,1,0,6,0,1,1,6,2,,Saturday,9,1,Morning,0,0,Odd,2024
+E0253,Project Expo 2023,Technical,Project Expo,2023-09-08,Entrepreneurship Cell,Auditorium,476,0,100,2,0,1,1,26,3,4.0,Friday,9,0,Afternoon,0,0,Odd,2023
+E0254,Football League 2025,Sports,Football League,2025-02-21,Sports Council,Open Ground,1217,1,0,10,0,1,1,6,2,,Friday,2,0,Morning,0,0,Even,2024
+E0255,Design Workshop 2024,Workshop,Design Workshop,2024-11-30,Robotics Club,Online (Zoom),1837,0,200,1,0,1,1,27,5,2.5,Saturday,11,1,Morning,1,0,Odd,2024
+E0256,AI/ML Workshop 2024,Workshop,AI/ML Workshop,2024-10-25,Coding Club,Online (Zoom),1795,0,50,1,1,0,1,23,4,4.3,Friday,10,0,Afternoon,0,1,Odd,2024
+E0257,Hackathon 2022,Technical,Hackathon,2022-09-24,Cultural Committee,Online (Zoom),1700,1,0,4,1,1,0,7,4,2.3,Saturday,9,1,Evening,0,0,Odd,2022
+E0258,Tech Talk 2024,Technical,Tech Talk,2024-09-17,Placement Cell,Online (Zoom),1723,0,50,4,1,1,1,13,1,4.4,Tuesday,9,0,Morning,0,0,Odd,2024
+E0259,Fashion Show 2025,Cultural,Fashion Show,2025-08-11,Photography Club,Seminar Hall,189,0,50,10,0,1,1,4,5,,Monday,8,0,Evening,0,0,Odd,2025
+E0260,Career Fair 2025,Career,Career Fair,2025-04-27,Sports Council,Classroom Block,74,1,0,2,0,0,0,3,4,3.4,Sunday,4,1,Morning,1,0,Even,2024
+E0261,Cultural Fest 2025,Cultural,Cultural Fest,2025-09-27,Photography Club,Seminar Hall,165,1,0,8,0,0,0,12,5,,Saturday,9,1,Afternoon,0,1,Odd,2025
+E0262,Web Dev Workshop 2025,Workshop,Web Dev Workshop,2025-06-12,Sports Council,Online (Zoom),1248,0,100,2,1,0,0,8,3,3.0,Thursday,6,0,Evening,0,0,Even,2024
+E0263,Drama 2025,Cultural,Drama,2025-09-02,Entrepreneurship Cell,Auditorium,386,0,100,4,1,1,0,24,4,,Tuesday,9,0,Morning,0,0,Odd,2025
+E0264,Robotics Challenge 2023,Technical,Robotics Challenge,2023-08-29,NSS Unit,Online (Zoom),1580,1,0,2,0,1,1,22,3,3.1,Tuesday,8,0,Afternoon,0,0,Odd,2023
+E0265,Hackathon 2023,Technical,Hackathon,2023-05-19,IEEE Chapter,Auditorium,454,0,150,2,1,1,0,10,5,3.0,Friday,5,0,Afternoon,1,0,Even,2022
+E0266,Marathon 2024,Sports,Marathon,2024-07-02,NSS Unit,Open Ground,1340,0,150,10,1,1,0,8,4,,Tuesday,7,0,Afternoon,0,1,Odd,2024
+E0267,Music Night 2023,Cultural,Music Night,2023-02-25,Sports Council,Open Ground,1391,0,50,10,0,0,1,27,2,,Saturday,2,1,Morning,0,1,Even,2022
+E0268,Music Night 2024,Cultural,Music Night,2024-10-09,Placement Cell,Open Ground,1374,0,50,10,1,1,0,14,4,,Wednesday,10,0,Afternoon,0,0,Odd,2024
+E0269,Design Workshop 2025,Workshop,Design Workshop,2025-12-02,NSS Unit,Online (Zoom),1663,1,0,1,1,0,0,20,1,3.5,Tuesday,12,0,Morning,1,0,Odd,2025
+E0270,Resume Clinic 2023,Career,Resume Clinic,2023-09-05,IEEE Chapter,Seminar Hall,120,1,0,4,0,0,1,21,4,3.8,Tuesday,9,0,Afternoon,0,0,Odd,2023
+E0271,Industry Panel 2023,Seminar,Industry Panel,2023-09-07,Placement Cell,Online (Zoom),1218,1,0,1,1,0,1,21,3,3.5,Thursday,9,0,Morning,0,0,Odd,2023
+E0272,Marathon 2024,Sports,Marathon,2024-09-11,IEEE Chapter,Sports Complex,540,0,50,4,0,1,1,29,2,,Wednesday,9,0,Afternoon,0,0,Odd,2024
+E0273,Drama 2024,Cultural,Drama,2024-08-08,Cultural Committee,Auditorium,424,0,100,4,0,1,0,22,5,,Thursday,8,0,Evening,0,0,Odd,2024
+E0274,Design Workshop 2024,Workshop,Design Workshop,2024-10-10,IEEE Chapter,Classroom Block,94,0,100,4,1,0,0,3,5,4.1,Thursday,10,0,Morning,0,0,Odd,2024
+E0275,Football League 2023,Sports,Football League,2023-11-20,Literary Society,Open Ground,1128,1,0,8,1,1,1,13,1,,Monday,11,0,Afternoon,1,0,Odd,2023
+E0276,Guest Lecture 2022,Seminar,Guest Lecture,2022-07-01,Cultural Committee,Auditorium,396,1,0,3,1,0,1,8,4,3.9,Friday,7,0,Evening,0,0,Odd,2022
+E0277,Resume Clinic 2023,Career,Resume Clinic,2023-04-28,Sports Council,Seminar Hall,127,1,0,4,0,0,0,9,1,3.2,Friday,4,0,Afternoon,1,0,Even,2022
+E0278,Drama 2022,Cultural,Drama,2022-10-16,Coding Club,Seminar Hall,121,1,0,4,0,1,0,8,3,,Sunday,10,1,Evening,0,0,Odd,2022
+E0279,Music Night 2023,Cultural,Music Night,2023-01-25,Sports Council,Seminar Hall,125,1,0,4,1,0,0,26,5,,Wednesday,1,0,Morning,0,0,Even,2022
+E0280,Hackathon 2025,Technical,Hackathon,2025-01-14,Photography Club,Classroom Block,72,0,100,3,1,1,1,27,3,5.0,Tuesday,1,0,Morning,0,0,Even,2024
+E0281,Badminton Meet 2022,Sports,Badminton Meet,2022-11-09,Coding Club,Open Ground,919,1,0,4,1,1,1,7,1,,Wednesday,11,0,Morning,1,0,Odd,2022
+E0282,Badminton Meet 2022,Sports,Badminton Meet,2022-10-04,Sports Council,Sports Complex,623,0,150,8,1,1,1,17,2,,Tuesday,10,0,Evening,0,0,Odd,2022
+E0283,Internship Meet 2023,Career,Internship Meet,2023-03-12,Cultural Committee,Online (Zoom),1740,1,0,2,1,0,0,15,1,3.3,Sunday,3,1,Afternoon,0,0,Even,2022
+E0284,Cultural Fest 2024,Cultural,Cultural Fest,2024-04-02,Robotics Club,Seminar Hall,153,0,100,6,0,1,0,23,4,,Tuesday,4,0,Morning,1,1,Even,2023
+E0285,Badminton Meet 2022,Sports,Badminton Meet,2022-08-12,IEEE Chapter,Open Ground,1057,0,150,6,0,1,0,27,5,,Friday,8,0,Afternoon,0,0,Odd,2022
+E0286,Dance Competition 2022,Cultural,Dance Competition,2022-08-26,Coding Club,Seminar Hall,169,1,0,10,0,1,1,15,2,,Friday,8,0,Morning,0,0,Odd,2022
+E0287,Project Expo 2025,Technical,Project Expo,2025-08-08,Sports Council,Seminar Hall,170,1,0,3,1,0,1,14,2,3.7,Friday,8,0,Evening,0,0,Odd,2025
+E0288,Design Workshop 2025,Workshop,Design Workshop,2025-05-12,Entrepreneurship Cell,Computer Lab,70,1,0,2,1,0,0,15,3,4.5,Monday,5,0,Afternoon,1,0,Even,2024
+E0289,Tech Talk 2023,Technical,Tech Talk,2023-04-02,Literary Society,Online (Zoom),1427,0,100,1,1,0,0,16,4,4.6,Sunday,4,1,Morning,1,0,Even,2022
+E0290,Soft Skills Workshop 2024,Workshop,Soft Skills Workshop,2024-05-31,Entrepreneurship Cell,Computer Lab,78,1,0,2,1,0,1,30,5,3.7,Friday,5,0,Morning,1,0,Even,2023
+E0291,Industry Panel 2025,Seminar,Industry Panel,2025-02-20,IEEE Chapter,Auditorium,401,0,300,1,1,0,1,5,5,2.6,Thursday,2,0,Afternoon,0,0,Even,2024
+E0292,Research Seminar 2023,Seminar,Research Seminar,2023-03-15,Placement Cell,Classroom Block,118,1,0,1,1,0,0,6,3,4.6,Wednesday,3,0,Morning,0,0,Even,2022
+E0293,Robotics Challenge 2024,Technical,Robotics Challenge,2024-05-14,Robotics Club,Online (Zoom),1706,0,150,3,0,1,1,13,4,3.5,Tuesday,5,0,Evening,1,0,Even,2023
+E0294,Football League 2025,Sports,Football League,2025-06-24,NSS Unit,Open Ground,1063,1,0,10,1,1,1,13,1,,Tuesday,6,0,Evening,0,0,Even,2024
+E0295,Industry Panel 2022,Seminar,Industry Panel,2022-09-09,Photography Club,Online (Zoom),1359,1,0,3,1,0,0,16,1,3.8,Friday,9,0,Afternoon,0,0,Odd,2022
+E0296,Tech Talk 2022,Technical,Tech Talk,2022-11-29,Robotics Club,Auditorium,415,0,50,1,1,1,0,30,5,4.2,Tuesday,11,0,Afternoon,1,0,Odd,2022
+E0297,Robotics Challenge 2025,Technical,Robotics Challenge,2025-05-25,Photography Club,Seminar Hall,171,1,0,6,1,1,1,18,2,3.5,Sunday,5,1,Morning,1,0,Even,2024
+E0298,Cultural Fest 2025,Cultural,Cultural Fest,2025-08-20,Literary Society,Seminar Hall,196,0,100,4,1,1,1,9,3,,Wednesday,8,0,Morning,0,0,Odd,2025
+E0299,Football League 2024,Sports,Football League,2024-10-21,NSS Unit,Open Ground,1420,1,0,4,0,0,1,9,2,,Monday,10,0,Morning,0,1,Odd,2024
+E0300,Data Science Workshop 2025,Workshop,Data Science Workshop,2025-11-09,Entrepreneurship Cell,Online (Zoom),1985,1,0,1,1,0,1,5,1,4.5,Sunday,11,1,Afternoon,1,0,Odd,2025
+E0301,Mock Interview 2025,Career,Mock Interview,2025-01-24,Placement Cell,Seminar Hall,145,0,100,1,1,0,1,2,5,3.8,Friday,1,0,Morning,0,0,Even,2024
+E0302,Research Seminar 2024,Seminar,Research Seminar,2024-10-08,Photography Club,Seminar Hall,151,1,0,2,0,0,0,10,3,3.8,Tuesday,10,0,Afternoon,0,0,Odd,2024
+E0303,Cleanliness Drive 2022,Social/NSS,Cleanliness Drive,2022-07-30,Photography Club,Seminar Hall,179,1,0,2,0,0,1,22,1,,Saturday,7,1,Afternoon,0,0,Odd,2022
+E0304,Charity Run 2025,Social/NSS,Charity Run,2025-05-24,Coding Club,Auditorium,420,1,0,2,0,0,0,26,2,,Saturday,5,1,Evening,1,0,Even,2024
+E0305,Project Expo 2023,Technical,Project Expo,2023-08-09,Literary Society,Auditorium,440,0,50,3,0,1,0,22,3,4.3,Wednesday,8,0,Afternoon,0,0,Odd,2023
+E0306,Hackathon 2025,Technical,Hackathon,2025-05-06,Literary Society,Seminar Hall,142,0,100,6,1,1,0,30,3,3.8,Tuesday,5,0,Afternoon,1,0,Even,2024
+E0307,Mock Interview 2022,Career,Mock Interview,2022-07-05,Entrepreneurship Cell,Online (Zoom),1526,1,0,3,0,0,0,9,4,3.2,Tuesday,7,0,Morning,0,0,Odd,2022
+E0308,Blood Donation Camp 2024,Social/NSS,Blood Donation Camp,2024-01-24,Photography Club,Open Ground,1363,1,0,1,0,1,0,20,3,,Wednesday,1,0,Evening,0,0,Even,2023
+E0309,Web Dev Workshop 2024,Workshop,Web Dev Workshop,2024-08-23,Coding Club,Classroom Block,72,0,150,1,1,0,0,24,4,4.0,Friday,8,0,Morning,0,0,Odd,2024
+E0310,Project Expo 2022,Technical,Project Expo,2022-12-02,Photography Club,Seminar Hall,122,0,100,2,1,1,1,30,5,3.9,Friday,12,0,Morning,1,1,Odd,2022
+E0311,Hackathon 2023,Technical,Hackathon,2023-10-09,Coding Club,Online (Zoom),1202,1,0,1,1,1,1,10,5,3.1,Monday,10,0,Afternoon,0,0,Odd,2023
+E0312,Charity Run 2022,Social/NSS,Charity Run,2022-10-14,Cultural Committee,Seminar Hall,171,1,0,1,0,0,1,7,2,,Friday,10,0,Evening,0,0,Odd,2022
+E0313,Robotics Challenge 2024,Technical,Robotics Challenge,2024-02-10,Entrepreneurship Cell,Auditorium,447,0,100,1,0,1,0,30,4,4.0,Saturday,2,1,Morning,0,0,Even,2023
+E0314,Placement Drive 2022,Career,Placement Drive,2022-11-09,Robotics Club,Online (Zoom),1576,1,0,2,0,0,1,20,4,4.2,Wednesday,11,0,Evening,1,0,Odd,2022
+E0315,Music Night 2023,Cultural,Music Night,2023-05-05,Photography Club,Auditorium,471,0,200,6,0,1,1,24,4,,Friday,5,0,Afternoon,1,0,Even,2022
+E0316,Tree Plantation 2024,Social/NSS,Tree Plantation,2024-04-08,Coding Club,Auditorium,408,1,0,6,0,0,1,19,4,,Monday,4,0,Afternoon,1,1,Even,2023
+E0317,Hackathon 2024,Technical,Hackathon,2024-01-23,Robotics Club,Classroom Block,109,0,200,3,1,1,1,6,1,3.9,Tuesday,1,0,Afternoon,0,0,Even,2023
+E0318,Blood Donation Camp 2022,Social/NSS,Blood Donation Camp,2022-08-14,Entrepreneurship Cell,Open Ground,1012,1,0,4,0,0,1,5,5,,Sunday,8,1,Afternoon,0,0,Odd,2022
+E0319,Soft Skills Workshop 2025,Workshop,Soft Skills Workshop,2025-04-19,Placement Cell,Online (Zoom),1747,0,300,3,1,0,0,11,4,4.1,Saturday,4,1,Evening,1,0,Even,2024
+E0320,Research Seminar 2024,Seminar,Research Seminar,2024-02-27,Entrepreneurship Cell,Online (Zoom),1791,1,0,2,1,0,1,19,2,3.1,Tuesday,2,0,Morning,0,0,Even,2023
+E0321,Coding Contest 2023,Technical,Coding Contest,2023-07-11,NSS Unit,Online (Zoom),1404,0,100,2,1,1,1,29,3,4.5,Tuesday,7,0,Afternoon,0,1,Odd,2023
+E0322,Tech Talk 2023,Technical,Tech Talk,2023-06-28,Placement Cell,Online (Zoom),1767,0,200,3,1,0,0,17,2,3.6,Wednesday,6,0,Afternoon,0,0,Even,2022
+E0323,Coding Contest 2022,Technical,Coding Contest,2022-11-04,Sports Council,Online (Zoom),1373,1,0,2,1,1,0,17,4,3.6,Friday,11,0,Afternoon,1,0,Odd,2022
+E0324,Industry Panel 2025,Seminar,Industry Panel,2025-07-06,NSS Unit,Auditorium,486,1,0,3,1,0,0,23,5,4.6,Sunday,7,1,Evening,0,0,Odd,2025
+E0325,Hackathon 2025,Technical,Hackathon,2025-02-15,Entrepreneurship Cell,Classroom Block,106,1,0,1,0,1,0,21,3,3.0,Saturday,2,1,Afternoon,0,0,Even,2024
+E0326,AI/ML Workshop 2022,Workshop,AI/ML Workshop,2022-10-23,Sports Council,Computer Lab,52,1,0,4,0,0,1,26,5,2.7,Sunday,10,1,Morning,0,0,Odd,2022
+E0327,Robotics Challenge 2025,Technical,Robotics Challenge,2025-07-15,Literary Society,Online (Zoom),1741,0,100,2,1,1,1,10,4,3.7,Tuesday,7,0,Afternoon,0,0,Odd,2025
+E0328,Web Dev Workshop 2024,Workshop,Web Dev Workshop,2024-11-05,NSS Unit,Classroom Block,78,0,100,1,1,0,0,8,4,4.1,Tuesday,11,0,Morning,1,0,Odd,2024
+E0329,Music Night 2024,Cultural,Music Night,2024-11-16,Photography Club,Auditorium,377,0,500,6,0,1,1,21,1,,Saturday,11,1,Morning,1,0,Odd,2024
+E0330,Career Fair 2022,Career,Career Fair,2022-10-11,Coding Club,Auditorium,443,1,0,1,1,0,1,5,2,4.0,Tuesday,10,0,Afternoon,0,0,Odd,2022
+E0331,Drama 2023,Cultural,Drama,2023-06-22,NSS Unit,Auditorium,412,0,100,6,0,1,0,24,3,,Thursday,6,0,Morning,0,0,Even,2022
+E0332,Placement Drive 2024,Career,Placement Drive,2024-04-27,NSS Unit,Seminar Hall,131,1,0,3,0,0,1,28,5,3.2,Saturday,4,1,Evening,1,0,Even,2023
+E0333,Soft Skills Workshop 2024,Workshop,Soft Skills Workshop,2024-10-28,IEEE Chapter,Computer Lab,56,1,0,3,1,0,1,20,5,3.0,Monday,10,0,Morning,0,0,Odd,2024
+E0334,Hackathon 2023,Technical,Hackathon,2023-08-27,IEEE Chapter,Online (Zoom),1809,1,0,1,1,1,0,23,3,2.6,Sunday,8,1,Morning,0,0,Odd,2023
+E0335,Mock Interview 2025,Career,Mock Interview,2025-04-07,Coding Club,Classroom Block,113,1,0,3,0,0,1,17,5,3.8,Monday,4,0,Afternoon,1,0,Even,2024
+E0336,Music Night 2024,Cultural,Music Night,2024-05-24,IEEE Chapter,Auditorium,584,0,150,8,0,1,1,12,2,,Friday,5,0,Morning,1,0,Even,2023
+E0337,Soft Skills Workshop 2025,Workshop,Soft Skills Workshop,2025-05-27,IEEE Chapter,Classroom Block,117,1,0,2,1,0,0,8,1,4.6,Tuesday,5,0,Afternoon,1,0,Even,2024
+E0338,Design Workshop 2022,Workshop,Design Workshop,2022-10-01,IEEE Chapter,Classroom Block,102,0,100,3,0,0,1,17,5,4.2,Saturday,10,1,Morning,0,0,Odd,2022
+E0339,Industry Panel 2023,Seminar,Industry Panel,2023-06-30,IEEE Chapter,Seminar Hall,175,1,0,2,1,0,0,28,4,3.5,Friday,6,0,Afternoon,0,0,Even,2022
+E0340,Cultural Fest 2024,Cultural,Cultural Fest,2024-03-23,Literary Society,Seminar Hall,144,1,0,10,0,1,1,25,3,,Saturday,3,1,Afternoon,0,0,Even,2023
+E0341,Tech Talk 2025,Technical,Tech Talk,2025-03-19,Literary Society,Auditorium,574,1,0,3,1,1,1,12,2,3.8,Wednesday,3,0,Afternoon,0,0,Even,2024
+E0342,Placement Drive 2024,Career,Placement Drive,2024-04-03,Cultural Committee,Classroom Block,88,0,100,6,0,0,0,6,1,3.9,Wednesday,4,0,Morning,1,0,Even,2023
+E0343,Dance Competition 2023,Cultural,Dance Competition,2023-07-03,Entrepreneurship Cell,Auditorium,536,1,0,6,0,0,1,30,1,,Monday,7,0,Evening,0,0,Odd,2023
+E0344,Web Dev Workshop 2025,Workshop,Web Dev Workshop,2025-05-31,Robotics Club,Computer Lab,73,1,0,2,0,0,0,2,4,3.7,Saturday,5,1,Morning,1,0,Even,2024
+E0345,Placement Drive 2022,Career,Placement Drive,2022-08-14,Placement Cell,Online (Zoom),1982,1,0,4,0,0,0,7,4,3.6,Sunday,8,1,Afternoon,0,0,Odd,2022
+E0346,Robotics Challenge 2022,Technical,Robotics Challenge,2022-09-09,NSS Unit,Auditorium,367,1,0,2,1,1,1,17,5,2.9,Friday,9,0,Morning,0,0,Odd,2022
+E0347,Fashion Show 2023,Cultural,Fashion Show,2023-09-24,IEEE Chapter,Auditorium,420,0,50,6,0,1,0,26,1,,Sunday,9,1,Morning,0,0,Odd,2023
+E0348,Project Expo 2022,Technical,Project Expo,2022-12-03,Cultural Committee,Seminar Hall,157,0,500,2,1,1,1,4,5,4.0,Saturday,12,1,Morning,1,0,Odd,2022
+E0349,Cleanliness Drive 2023,Social/NSS,Cleanliness Drive,2023-07-25,Placement Cell,Seminar Hall,183,1,0,2,0,0,0,9,3,,Tuesday,7,0,Morning,0,0,Odd,2023
+E0350,Cleanliness Drive 2025,Social/NSS,Cleanliness Drive,2025-11-19,Cultural Committee,Auditorium,534,1,0,2,0,0,0,29,1,,Wednesday,11,0,Afternoon,1,0,Odd,2025
+E0351,Resume Clinic 2023,Career,Resume Clinic,2023-12-17,NSS Unit,Classroom Block,75,1,0,4,1,0,1,3,5,4.4,Sunday,12,1,Afternoon,1,0,Odd,2023
+E0352,Dance Competition 2024,Cultural,Dance Competition,2024-03-07,Robotics Club,Open Ground,1414,1,0,4,0,1,0,7,2,,Thursday,3,0,Morning,0,0,Even,2023
+E0353,Cricket Tournament 2023,Sports,Cricket Tournament,2023-11-16,Photography Club,Open Ground,1147,1,0,10,0,1,1,2,2,,Thursday,11,0,Morning,1,0,Odd,2023
+E0354,Mock Interview 2024,Career,Mock Interview,2024-12-14,Placement Cell,Online (Zoom),1884,1,0,1,0,0,0,23,4,4.4,Saturday,12,1,Morning,1,0,Odd,2024
+E0355,Resume Clinic 2023,Career,Resume Clinic,2023-11-01,Photography Club,Online (Zoom),1907,1,0,1,1,0,1,11,3,3.2,Wednesday,11,0,Afternoon,1,0,Odd,2023
+E0356,Robotics Challenge 2023,Technical,Robotics Challenge,2023-07-04,Sports Council,Seminar Hall,193,0,500,3,1,1,1,22,4,4.7,Tuesday,7,0,Morning,0,0,Odd,2023
+E0357,Robotics Challenge 2022,Technical,Robotics Challenge,2022-07-20,Sports Council,Seminar Hall,182,0,100,2,1,1,1,2,3,5.0,Wednesday,7,0,Morning,0,0,Odd,2022
+E0358,Fashion Show 2024,Cultural,Fashion Show,2024-09-03,Photography Club,Auditorium,540,1,0,10,0,1,1,6,5,,Tuesday,9,0,Afternoon,0,0,Odd,2024
+E0359,Research Seminar 2025,Seminar,Research Seminar,2025-04-02,Entrepreneurship Cell,Classroom Block,96,1,0,3,1,0,1,5,2,4.9,Wednesday,4,0,Afternoon,1,0,Even,2024
+E0360,Cultural Fest 2023,Cultural,Cultural Fest,2023-12-17,IEEE Chapter,Seminar Hall,164,1,0,10,1,0,0,2,3,,Sunday,12,1,Morning,1,0,Odd,2023
+E0361,Tech Talk 2023,Technical,Tech Talk,2023-08-02,NSS Unit,Seminar Hall,161,1,0,1,1,0,0,2,1,3.8,Wednesday,8,0,Afternoon,0,0,Odd,2023
+E0362,Mock Interview 2025,Career,Mock Interview,2025-05-16,Entrepreneurship Cell,Auditorium,483,1,0,3,0,0,0,8,2,2.1,Friday,5,0,Afternoon,1,0,Even,2024
+E0363,Fashion Show 2025,Cultural,Fashion Show,2025-10-11,Photography Club,Auditorium,410,1,0,4,0,1,1,26,5,,Saturday,10,1,Afternoon,0,0,Odd,2025
+E0364,Coding Contest 2023,Technical,Coding Contest,2023-12-31,Sports Council,Auditorium,438,0,100,3,1,1,1,17,3,2.8,Sunday,12,1,Morning,1,0,Odd,2023
+E0365,Design Workshop 2023,Workshop,Design Workshop,2023-03-16,Literary Society,Computer Lab,53,1,0,3,1,0,0,23,4,2.5,Thursday,3,0,Afternoon,0,0,Even,2022
+E0366,Resume Clinic 2024,Career,Resume Clinic,2024-11-01,NSS Unit,Online (Zoom),1774,0,100,2,0,0,0,5,2,4.1,Friday,11,0,Evening,1,0,Odd,2024
+E0367,AI/ML Workshop 2024,Workshop,AI/ML Workshop,2024-08-25,NSS Unit,Classroom Block,92,1,0,4,1,0,1,28,1,4.6,Sunday,8,1,Afternoon,0,0,Odd,2024
+E0368,Charity Run 2023,Social/NSS,Charity Run,2023-08-24,NSS Unit,Open Ground,1045,1,0,4,1,0,1,29,4,,Thursday,8,0,Morning,0,0,Odd,2023
+E0369,Internship Meet 2025,Career,Internship Meet,2025-04-18,Robotics Club,Auditorium,551,1,0,4,1,0,0,19,2,4.0,Friday,4,0,Afternoon,1,0,Even,2024
+E0370,Drama 2023,Cultural,Drama,2023-03-16,Sports Council,Auditorium,574,0,150,10,0,1,1,24,3,,Thursday,3,0,Afternoon,0,0,Even,2022
+E0371,Dance Competition 2022,Cultural,Dance Competition,2022-08-30,Placement Cell,Seminar Hall,120,0,150,6,0,1,1,13,4,,Tuesday,8,0,Evening,0,0,Odd,2022
+E0372,Coding Contest 2023,Technical,Coding Contest,2023-04-02,Robotics Club,Online (Zoom),1902,0,200,2,1,1,0,8,3,3.2,Sunday,4,1,Afternoon,1,0,Even,2022
+E0373,Data Science Workshop 2025,Workshop,Data Science Workshop,2025-01-25,Placement Cell,Computer Lab,48,1,0,2,1,0,0,27,1,4.7,Saturday,1,1,Afternoon,0,0,Even,2024
+E0374,Soft Skills Workshop 2024,Workshop,Soft Skills Workshop,2024-06-14,Cultural Committee,Online (Zoom),1767,1,0,3,0,0,0,5,4,4.1,Friday,6,0,Morning,0,0,Even,2023
+E0375,Research Seminar 2024,Seminar,Research Seminar,2024-11-13,Photography Club,Auditorium,570,1,0,4,0,0,1,13,3,4.9,Wednesday,11,0,Afternoon,1,0,Odd,2024
+E0376,Data Science Workshop 2024,Workshop,Data Science Workshop,2024-03-12,Coding Club,Online (Zoom),1388,0,300,4,1,0,0,3,2,3.0,Tuesday,3,0,Morning,0,0,Even,2023
+E0377,Hackathon 2022,Technical,Hackathon,2022-11-24,Robotics Club,Classroom Block,117,1,0,2,1,1,0,10,4,2.6,Thursday,11,0,Evening,1,0,Odd,2022
+E0378,Drama 2024,Cultural,Drama,2024-12-04,NSS Unit,Auditorium,532,1,0,4,0,1,0,25,5,,Wednesday,12,0,Afternoon,1,0,Odd,2024
+E0379,Badminton Meet 2024,Sports,Badminton Meet,2024-10-21,Entrepreneurship Cell,Open Ground,1490,1,0,8,1,1,0,23,2,,Monday,10,0,Afternoon,0,1,Odd,2024
+E0380,Dance Competition 2025,Cultural,Dance Competition,2025-06-06,Entrepreneurship Cell,Open Ground,1019,0,100,10,1,0,1,27,1,,Friday,6,0,Afternoon,0,0,Even,2024
+E0381,Hackathon 2022,Technical,Hackathon,2022-12-06,Sports Council,Online (Zoom),1302,1,0,6,1,1,0,25,5,4.6,Tuesday,12,0,Morning,1,0,Odd,2022
+E0382,Career Fair 2022,Career,Career Fair,2022-08-16,NSS Unit,Online (Zoom),1729,1,0,2,1,0,0,17,2,4.3,Tuesday,8,0,Morning,0,0,Odd,2022
+E0383,AI/ML Workshop 2023,Workshop,AI/ML Workshop,2023-07-17,Cultural Committee,Classroom Block,96,0,100,1,0,0,0,30,2,4.8,Monday,7,0,Afternoon,0,0,Odd,2023
+E0384,Design Workshop 2025,Workshop,Design Workshop,2025-04-05,Sports Council,Online (Zoom),1851,0,50,3,1,0,0,18,1,3.5,Saturday,4,1,Afternoon,1,0,Even,2024
+E0385,Project Expo 2022,Technical,Project Expo,2022-11-06,Coding Club,Online (Zoom),1543,0,50,2,0,0,0,20,1,2.5,Sunday,11,1,Evening,1,0,Odd,2022
+E0386,Mock Interview 2025,Career,Mock Interview,2025-06-21,Coding Club,Seminar Hall,120,1,0,2,0,1,1,14,3,2.8,Saturday,6,1,Afternoon,0,0,Even,2024
+E0387,Resume Clinic 2025,Career,Resume Clinic,2025-10-08,Placement Cell,Classroom Block,95,1,0,3,1,0,0,10,4,2.9,Wednesday,10,0,Morning,0,0,Odd,2025
+E0388,Cultural Fest 2024,Cultural,Cultural Fest,2024-12-14,Robotics Club,Seminar Hall,173,1,0,8,0,1,1,25,5,,Saturday,12,1,Afternoon,1,0,Odd,2024
+E0389,Tech Talk 2025,Technical,Tech Talk,2025-10-25,NSS Unit,Auditorium,434,0,50,4,1,1,0,28,3,2.9,Saturday,10,1,Afternoon,0,0,Odd,2025
+E0390,Research Seminar 2024,Seminar,Research Seminar,2024-11-05,Literary Society,Classroom Block,96,1,0,6,1,1,0,27,5,3.3,Tuesday,11,0,Afternoon,1,0,Odd,2024
+E0391,Soft Skills Workshop 2022,Workshop,Soft Skills Workshop,2022-10-19,NSS Unit,Online (Zoom),1682,1,0,1,1,0,0,23,5,4.3,Wednesday,10,0,Afternoon,0,0,Odd,2022
+E0392,Resume Clinic 2025,Career,Resume Clinic,2025-09-28,Entrepreneurship Cell,Online (Zoom),1774,1,0,3,1,0,0,11,3,4.1,Sunday,9,1,Afternoon,0,1,Odd,2025
+E0393,Football League 2025,Sports,Football League,2025-03-31,IEEE Chapter,Open Ground,1041,0,100,4,0,1,0,25,3,,Monday,3,0,Evening,0,1,Even,2024
+E0394,Internship Meet 2025,Career,Internship Meet,2025-07-28,Literary Society,Seminar Hall,141,1,0,3,1,0,1,28,3,3.0,Monday,7,0,Morning,0,0,Odd,2025
+E0395,Guest Lecture 2022,Seminar,Guest Lecture,2022-11-29,Entrepreneurship Cell,Auditorium,524,1,0,6,0,0,0,15,4,4.2,Tuesday,11,0,Evening,1,1,Odd,2022
+E0396,Fashion Show 2023,Cultural,Fashion Show,2023-10-07,Robotics Club,Auditorium,445,0,200,10,1,1,0,9,1,,Saturday,10,1,Morning,0,0,Odd,2023
+E0397,Alumni Talk 2023,Seminar,Alumni Talk,2023-03-10,IEEE Chapter,Auditorium,540,0,150,6,1,0,1,21,5,3.5,Friday,3,0,Evening,0,0,Even,2022
+E0398,Music Night 2024,Cultural,Music Night,2024-09-20,Sports Council,Seminar Hall,141,0,100,10,0,0,1,8,3,,Friday,9,0,Morning,0,1,Odd,2024
+E0399,Football League 2024,Sports,Football League,2024-08-14,Coding Club,Sports Complex,721,0,200,10,0,1,0,30,1,,Wednesday,8,0,Afternoon,0,1,Odd,2024
+E0400,Music Night 2024,Cultural,Music Night,2024-05-07,Literary Society,Auditorium,397,1,0,10,1,0,1,26,2,,Tuesday,5,0,Afternoon,1,0,Even,2023
